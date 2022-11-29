@@ -1,16 +1,22 @@
 ![title](./header.png)
 
-I'm a Full-Stack Machine Learning Engineer based in SF and a UC Merced CS freshman.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrewhinh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhinh)
-- ⚡ Fun fact: In my free time, I love rock climbing and reading.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&background=29F0FF00&width=435&lines=Full-Stack+ML+Engineer;UCM+CS+Freshman;Other+Prestigious+Title)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhinh&layout=compact&theme=radical&hide_border=true" /></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
+<a href="https://www.linkedin.com/in/andrewhinh"><img src="https://img.shields.io/badge/-andrewhinh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 [![@andrewhinh's Holopin board](https://holopin.me/andrewhinh)](https://holopin.io/@andrewhinh)
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrewhinh&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhinh&theme=radical&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="280" src="https://github-readme-stats.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
+
+- ⚡ Fun fact: In my free time, I love rock climbing, reading, and listening to podcasts.
+<p align="left"> 
+<img align="center" alt="Climbing" height="250" src="https://media.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif">
+<img align="center" alt="Reading" height="250" src="https://media.giphy.com/media/51XVqRxtB4jqo/giphy.gif">
+<img align="center" alt="Reading" height="250" src="https://media.giphy.com/media/4qY3r5eal0xH2/giphy.gif">
+</p>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/andrewhinh/count.svg" />
 </p>
