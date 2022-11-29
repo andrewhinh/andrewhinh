@@ -1,6 +1,6 @@
 ![title](./header.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&background=29F0FF00&width=435&lines=Full-Stack+ML+Engineer;UCM+CS+Freshman;Other+Prestigious+Title)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans-serif&size=30&duration=3000&pause=1000&color=F70000&width=500&lines=Full-Stack+ML+Engineer;UC+Merced+CS+Undergrad;Child+among+Adults)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/andrewhinh"><img src="https://img.shields.io/badge/-andrewhinh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
