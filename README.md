@@ -1,3 +1,5 @@
+![title](./header.png)
+
 I'm a Full-Stack Machine Learning Engineer based in SF and a UC Merced CS freshman.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrewhinh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhinh)
 - ⚡ Fun fact: In my free time, I love rock climbing and reading.
