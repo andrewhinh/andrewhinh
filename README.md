@@ -11,8 +11,8 @@
 [![@andrewhinh's Holopin board](https://holopin.me/andrewhinh)](https://holopin.io/@andrewhinh)
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.75" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhinh&theme=radical&hide_border=true" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.75" src="https://github-readme-stats.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhinh&theme=radical&hide_border=true" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
 </p>
  
 - ⚡ Fun fact: In my free time, I love rock climbing, reading, and listening to podcasts.
