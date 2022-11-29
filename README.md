@@ -10,7 +10,7 @@
 
 [![@andrewhinh's Holopin board](https://holopin.me/andrewhinh)](https://holopin.io/@andrewhinh)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhinh&theme=radical&hide_border=true" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="230" src="https://github-readme-stats.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
 </p>
