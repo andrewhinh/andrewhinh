@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/andrewhinh"><img src="https://img.shields.io/badge/-andrewhinh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/andrew-hinh/"><img src="https://img.shields.io/badge/-andrewhinh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 [![@andrewhinh's Holopin board](https://holopin.me/andrewhinh)](https://holopin.io/@andrewhinh)
