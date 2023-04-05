@@ -4,10 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=30&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=ML+Engineer;DS+Research+Intern;ZenML+Month+of+MLOps+Winner;FSDL+2022+Alumni;UC+Merced+CS+Undergraduate" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/andrew-hinh/"><img src="https://img.shields.io/badge/-andrewhinh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
 [![@andrewhinh's Holopin board](https://holopin.me/andrewhinh)](https://holopin.io/@andrewhinh)
 
 <p align="left">
