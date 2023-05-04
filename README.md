@@ -10,13 +10,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewhinh&theme=radical&hide_border=true" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andrew's Github Stats" /></a>
 </p>
- 
-- ⚡ Fun fact: In my free time, I enjoy rock climbing, cooking, and learning about health, philosophy, AI, and space through books and podcasts.
-<p align="left"> 
-  <img align="center" alt="Climbing" height="209.5" src="https://media.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif">
-  <img align="center" alt="Reading" height="209.5" src="https://media.giphy.com/media/51XVqRxtB4jqo/giphy.gif">
-  <img align="center" alt="Reading" height="209.5" src="https://media.giphy.com/media/4qY3r5eal0xH2/giphy.gif">
-</p>
 
 <p align="center"> 
   Visitor Count<br>
