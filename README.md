@@ -6,7 +6,7 @@
   <a href="https://holopin.io/@andrewhinh"><img src="https://holopin.me/andrewhinh" alt="Holopin Board" /></a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrewhinh&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Github Stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewhinh&layout=donut-vertical&langs_count=10&theme=radical&hide_border=true" alt="Languages Stats"/></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="234.5" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewhinh&layout=donut-vertical&hide=Jupyter%20Notebook&theme=radical&hide_border=true" alt="Languages Stats"/></a> 
   <br><br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrewhinh&theme=radical" alt="Streak Stats" /></a>
   <br><br>
