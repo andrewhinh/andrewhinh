@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="./header.png" alt="Header" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=30&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=ML+Engineer;CS+Undergraduate" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=30&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Full-Stack+ML+Engineer;CS+Undergraduate" alt="Typing SVG" /></a>
   <br>
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
   <a href="https://holopin.io/@andrewhinh"><img src="https://holopin.me/andrewhinh" alt="Holopin Board" /></a>
